@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test Mobile App</string>
+    //Custom Alert Dialog Box
+    <string name="custom_alert_dialog_title">Custom Alert Dialog Box</string>
+    <string name="custom_alert_dialog_description">Do you want to close the dialog box?</string>
+    <string name="custom_alert_dialog_button_no">No</string>
+    <string name="custom_alert_dialog_button_yes">Yes</string>
+
+</resources>
